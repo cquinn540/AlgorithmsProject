@@ -1,0 +1,5 @@
+MST Edges, in order of addition:
+
+Chi - GBy, GBy - Mpl, Chi - Det
+
+MST Length:   772

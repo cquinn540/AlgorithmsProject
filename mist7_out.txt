@@ -1,0 +1,5 @@
+MST Edges, in order of addition:
+
+Chi - StL, StL - Nas, Chi - StP, StP - Win, StL - Dal, Dal - Den
+
+MST Length:   2899

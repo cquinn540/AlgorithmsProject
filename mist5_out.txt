@@ -1,0 +1,5 @@
+MST Edges, in order of addition:
+
+Den - SLC, Den - OKC, SLC - Prt, OKC - Mpl
+
+MST Length:   2752
